@@ -40,7 +40,7 @@
 #define SMEXT_CONF_DESCRIPTION  "Example extension to help developers"
 #define SMEXT_CONF_VERSION      "0.0.0.0"
 #define SMEXT_CONF_AUTHOR       "AlliedModders, EpsilonBSP"
-#define SMEXT_CONF_URL          "https://github.com/epsilonbsp/sm_extension_example"
+#define SMEXT_CONF_URL          "https://github.com/epsilonbsp/sm_extension_example_with_sdk"
 #define SMEXT_CONF_LOGTAG       "EXAMPLE"
 #define SMEXT_CONF_LICENSE      "GPL"
 #define SMEXT_CONF_DATESTRING   __DATE__
